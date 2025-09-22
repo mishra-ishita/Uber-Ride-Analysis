@@ -1,14 +1,13 @@
-# 🚖 Uber Ride Analysis (SQL | Python | Power BI | Excel)
+# 🚖 Uber Ride Analysis in Delhi: Data Insights using SQL, Python, Power BI & Excel
 
 ## 📌 Project Overview
 
-This project analyzes Uber ride data to uncover customer behavior, cancellations, ratings, and operational inefficiencies. Using SQL, Python, Power BI, and Excel, I performed data cleaning, EDA, visualization, and dashboarding to derive actionable business insights.
+Uber operations in Delhi face challenges like ride cancellations, delays, and uneven demand across different localities. Understanding booking patterns in Delhi’s high-traffic zones can help improve driver allocation, customer satisfaction, and operational efficiency.
 
 
 ## 🎯 Problem Statement
 
-Uber faces challenges like ride cancellations, incomplete rides, and low ratings,  which reduce efficiency and customer satisfaction.  
-This project aims to analyze patterns and recommend solutions for better decision-making.
+Uber faces challenges like ride cancellations, incomplete rides, and low ratings,  which reduce efficiency and customer satisfaction.This project aims to analyze patterns and recommend solutions for better decision-making.
 
 
 ## 🔍 Objectives
@@ -78,5 +77,4 @@ The dataset includes ride booking details with the following columns:
 
 ## 📌 Conclusion
 
-This project showcases end-to-end data analysis using multiple tools.  
-It highlights how data-driven insights can help Uber improve customer satisfaction, reduce cancellations, and optimize ride efficiency.
+This project showcases end-to-end data analysis using multiple tools.It highlights how data-driven insights can help Uber improve customer satisfaction, reduce cancellations, and optimize ride efficiency.
