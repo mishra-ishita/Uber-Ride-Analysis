@@ -4,14 +4,12 @@
 
 This project analyzes Uber ride data to uncover customer behavior, cancellations, ratings, and operational inefficiencies. Using SQL, Python, Power BI, and Excel, I performed data cleaning, EDA, visualization, and dashboarding to derive actionable business insights.
 
-----------
 
 ## 🎯 Problem Statement
 
 Uber faces challenges like ride cancellations, incomplete rides, and low ratings,  which reduce efficiency and customer satisfaction.  
 This project aims to analyze patterns and recommend solutions for better decision-making.
 
-----------
 
 ## 🔍 Objectives
 
@@ -28,8 +26,6 @@ This project aims to analyze patterns and recommend solutions for better decisio
 -   Build interactive dashboards for business decisions.
     
 
-----------
-
 ## 🗂 Dataset Description
 
 The dataset includes ride booking details with the following columns:
@@ -41,9 +37,7 @@ The dataset includes ride booking details with the following columns:
 -   Avg VTAT, Avg CTAT, Cancellations (Customer/Driver)
     
 -   Booking Value, Ride Distance, Ratings, Payment Method
-    
 
-----------
 
 ## 🛠 Tools & Technologies
 
@@ -55,8 +49,6 @@ The dataset includes ride booking details with the following columns:
     
 -   **Excel** → Quick analysis, pivot tables
     
-
-----------
 
 ## 📊 Analysis Performed
 
@@ -81,11 +73,10 @@ The dataset includes ride booking details with the following columns:
 6.  **Excel:** pivot tables for quick checks.
     
 
-----------
-
 ## 📈 Sample Insights
 
 
+## 📌 Conclusion
 
 This project showcases end-to-end data analysis using multiple tools.  
 It highlights how data-driven insights can help Uber improve customer satisfaction, reduce cancellations, and optimize ride efficiency.
